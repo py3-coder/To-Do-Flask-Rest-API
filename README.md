@@ -1,5 +1,26 @@
+
 # To-Do-Flask-Rest-API
-A Backend application for implementing the TODO list application.
+
+## A Backend application for implementing the TODO list application.
+
+For Example: 
+
+    Task   ~    Status
+
+    1. Go for a run - Complete
+
+    2. Work on templates -Incomplete
+
+    3. Water plants - Incomplete
+
+In the above example, each item is considered as a task, where in a person can check off each item in the list after they complete that task.
+
+### Functional requirements:
+
+● Create apis to create, delete and update a task
+
+● Create an Api to mark the task as complete / Incomplete
+
 
 
 
@@ -54,4 +75,28 @@ Step 6: Test the Functions :
          c. Delete
          d. Update_task_Complete
          e. Update_task_InComplete 
+
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+
+
+## Tech Stack
+
+**Client:** Python
+
+**Server:** Flask
+
+
+
+## Authors
+
+#### Saurabh Kumar
+- [Resume](https://drive.google.com/file/d/1IVS-E_wNaUecqiVlsEOZWiotnNtUEkCz/view?usp=share_link)
+- [py3-coder](https://www.github.com/py3-coder)
+
 
