@@ -116,13 +116,11 @@ Step 6: Test the Functions :
 
 **Server:** Flask 
 
-
 ## Authors
 
 #### Saurabh Kumar
 - [Resume](https://drive.google.com/file/d/1IVS-E_wNaUecqiVlsEOZWiotnNtUEkCz/view?usp=share_link)
 - [py3-coder](https://www.github.com/py3-coder)
-
 
 
 ## Currently Working on Dockarizing the application
