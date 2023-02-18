@@ -110,19 +110,73 @@ Step 6: Test the Functions :
 ![image](https://user-images.githubusercontent.com/54509629/219830900-82346746-e789-44a5-a8bb-007946ba0758.png)
 
 
+
+# Run API Using Docker Image
+
+#### `Check-Point` :
+  a. Make Sure You have docker installed in your local machine
+
+Docker Hub Repo Link : https://hub.docker.com/r/saurabhgupta2929/flaskapp
+
+Step 1: Pull the Docker Image 
+
+```bash
+  docker pull saurabhgupta2929/flaskapp
+```
+
+Step 2: Specify the Port according to your port avalability or leave as it is
+
+```bash
+  docker run -p 5000:5000 saurabhgupta2929/flaskapp
+```
+
+Step 3: Test the API on Exported Port as you get the http link.
+
+Step 4: Test the Functions :
+ 
+         a. Create 
+         b. Update
+         c. Delete
+         d. Update_task_Complete
+         e. Update_task_InComplete 
+         
+ ## Screenshots : 
+ 
+ ### 🚀🚀 (Just If you want to know how to push the docker image to docker hub)
+ 
+ ###### Image 01 : Pushing Docker Image form Local to docker hub 
+ 
+ ![image](https://user-images.githubusercontent.com/54509629/219855418-5497ae2b-44f9-4719-8356-2de1c21115bf.png)
+ 
+ ![image](https://user-images.githubusercontent.com/54509629/219855436-2ab014ad-db8d-4457-b635-2a9209fbc1c7.png)
+ 
+  ###### Image 02 : Pulling the repo from Docker hub for running (see setps how to run )
+  
+  ![image](https://user-images.githubusercontent.com/54509629/219855561-f8c10b0c-b002-4c82-8ee8-b9bc49531ea3.png)
+  
+  ###### Image 03 :Testing the Exposed Port  :
+
+ ![image](https://user-images.githubusercontent.com/54509629/219855631-1e265761-a7d1-42d0-b6e9-9844e0b06ed2.png)
+
+
 ## Tech Stack
 
 **Client:** Python
 
 **Server:** Flask 
 
+**Container:** Docker 
+
 ## Authors
 
 #### Saurabh Kumar
 - [Resume](https://drive.google.com/file/d/1IVS-E_wNaUecqiVlsEOZWiotnNtUEkCz/view?usp=share_link)
 - [py3-coder](https://www.github.com/py3-coder)
+  
+ 
 
 
-## Currently Working on Dockarizing the application
+
+
 
 
