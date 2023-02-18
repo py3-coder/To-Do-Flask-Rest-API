@@ -106,6 +106,8 @@ Step 6: Test the Functions :
 ![image](https://user-images.githubusercontent.com/54509629/219830578-bf7731b3-1417-4d51-a3f3-ae88a7a011d2.png)
 
 
+###### Image 07 : Terminal Image Request Records 
+![image](https://user-images.githubusercontent.com/54509629/219830900-82346746-e789-44a5-a8bb-007946ba0758.png)
 
 
 ## Tech Stack
