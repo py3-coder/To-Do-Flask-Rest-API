@@ -1,5 +1,6 @@
 
-# To-Do-Flask-Rest-API
+# To-Do-Flask-Rest-API 📌 
+
 
 ## A Backend application for implementing the TODO list application.
 
@@ -15,16 +16,22 @@ For Example:
 
 In the above example, each item is considered as a task, where in a person can check off each item in the list after they complete that task.
 
-### Functional requirements:
+### 📢 Functional requirements:
 
 ● Create apis to create, delete and update a task
 
 ● Create an Api to mark the task as complete / Incomplete
 
+## You Can Run this To-Do-Flask-Rest-API 
+
+1. Locally 🚀
+2. Docker Image 🚀  
+
+Docker Hub Repo Link : https://hub.docker.com/r/saurabhgupta2929/flaskapp
 
 
 
-## Run Locally
+## Run Locally 🚀🚀
 
 #### `Check-Point` :
   a. Make Sure You have Python 3.8 installed in your local machine
@@ -78,7 +85,7 @@ Step 6: Test the Functions :
 
 
 
-## Screenshots 
+## Screenshots ✔✔
 
 ###### Image 01 : Get ALL Task
 ![image](https://user-images.githubusercontent.com/54509629/219830119-57581430-4280-4711-86e7-c57d05149098.png)
@@ -111,7 +118,7 @@ Step 6: Test the Functions :
 
 
 
-# Run API Using Docker Image
+# Run API Using Docker Image 🚀🚀
 
 #### `Check-Point` :
   a. Make Sure You have docker installed in your local machine
@@ -140,7 +147,7 @@ Step 4: Test the Functions :
          d. Update_task_Complete
          e. Update_task_InComplete 
          
- ## Screenshots : 
+ ## Screenshots ✔✔ : 
  
  ### 🚀🚀 (Just If you want to know how to push the docker image to docker hub)
  
