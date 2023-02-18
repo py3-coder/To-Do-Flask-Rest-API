@@ -78,9 +78,32 @@ Step 6: Test the Functions :
 
 
 
-## Screenshots
+## Screenshots 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+###### Image 01 : Get ALL Task
+![image](https://user-images.githubusercontent.com/54509629/219830119-57581430-4280-4711-86e7-c57d05149098.png)
+
+###### Image 02 : Create Task 
+![image](https://user-images.githubusercontent.com/54509629/219830194-ce5db72e-33cb-4104-b480-a7014f6061bb.png)
+
+###### Image 03 : Update Task Status 
+![image](https://user-images.githubusercontent.com/54509629/219830315-aa25705f-4af3-400b-bdbb-0facdc17a4a4.png)
+
+###### Image 04 : Delete Task 
+![image](https://user-images.githubusercontent.com/54509629/219830361-416bf696-266f-4e29-854d-82e2fce094fd.png)
+
+###### Image 05 : Update_Task_Complete
+![image](https://user-images.githubusercontent.com/54509629/219830404-2623ad68-786b-4705-a37a-543cc9bd456d.png)
+
+###### Image 06 : Update_Task_Incomplete
+![image](https://user-images.githubusercontent.com/54509629/219830481-2500e49d-c9c4-4321-8f50-36bcbcdbc548.png)
+
+###### Image 06 : Create Multiple Task
+![image](https://user-images.githubusercontent.com/54509629/219830528-fb169f16-3b05-4026-83fc-9dd63db0202e.png)
+
+
+###### Image 07 : Final Data by using getall
+![image](https://user-images.githubusercontent.com/54509629/219830578-bf7731b3-1417-4d51-a3f3-ae88a7a011d2.png)
 
 
 
@@ -89,8 +112,7 @@ Step 6: Test the Functions :
 
 **Client:** Python
 
-**Server:** Flask
-
+**Server:** Flask 
 
 
 ## Authors
