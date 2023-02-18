@@ -29,7 +29,7 @@ In the above example, each item is considered as a task, where in a person can c
 #### `Check-Point` :
   a. Make Sure You have Python 3.8 installed in your local machine
 
-  b. Make Sure to Test the API ~ Postman API Testing Tool installed
+  b. Make Sure to Postman API Testing Tool installed ~ For Testsing Purpose
 
 
 Step 1: Clone the project
